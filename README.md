@@ -18,5 +18,6 @@
 <h3>📞Contact me</h3>
 <div>
   <img src="pink.png" width="50px">
+  <img src="linkedin.png" width="50px">  
 </div>
 
