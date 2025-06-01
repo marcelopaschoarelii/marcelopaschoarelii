@@ -1,4 +1,4 @@
-<h2 align="center"><span>Hi 😍, I'm Marcelo Paschoareli</span></h2>
+<h2 align="center"><span>Hi 💗, I'm Marcelo Paschoareli</span></h2>
 <hr>
 
 <p align="center">
@@ -15,9 +15,8 @@
   <li>❤️ I Love Front-End</li>
 </ul>
 <hr>
-<h3>📞Contact me</h3>
+<h3>🌸Contact me</h3>
 <div>
-  <img src="pink.png" width="50px">
-  <img src="linkedin.png" width="50px">  
+  
 </div>
 
