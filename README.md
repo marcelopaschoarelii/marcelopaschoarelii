@@ -9,7 +9,7 @@
 
 <ul>
   <li>🔭 I’m currently working on <strong>PicPay Bank</strong></li>
-  <li>🌱 I’m currently learning <strong>Mobile, Dynamic Applications and Back-end Development</strong></li>
+  <li>🌱 I’m currently learning <strong>Mobile, Dynamic Applications, Back-end Development and Software Engineer</strong></li>
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: I like to cook</li>
   <li>❤️ I Love Front-End</li>
